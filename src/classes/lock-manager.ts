@@ -1,4 +1,3 @@
-import { AbortController } from './abort-controller';
 import { SpanKind, TelemetryAttributes } from '../enums';
 import { LockManagerWorkerContext, Span } from '../interfaces';
 

@@ -2,7 +2,6 @@ import * as fs from 'fs';
 import { URL } from 'url';
 import type { Cluster, Redis } from 'ioredis';
 import * as path from 'path';
-import { AbortController } from './abort-controller';
 
 import {
   GetNextJobOptions,

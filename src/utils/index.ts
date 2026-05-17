@@ -1,5 +1,4 @@
 import { Cluster, Redis } from 'ioredis';
-import { AbortController } from '../classes/abort-controller';
 import { randomBytes, randomUUID as cryptoRandomUUID } from 'crypto';
 
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment

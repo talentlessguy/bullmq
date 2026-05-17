@@ -1,4 +1,3 @@
-import { AbortController } from './abort-controller';
 import { ParentCommand } from '../enums';
 import {
   DependenciesOpts,
